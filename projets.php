@@ -17,6 +17,7 @@ $projets = ["Site web", "Application mobile", "Gestion de bibliothèque"];
         <?php endforeach; ?>
     </ul>
 
+    
     <a href="index.php">Accueil</a>
 </body>
 </html>
